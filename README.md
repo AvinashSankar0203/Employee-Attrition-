@@ -6,7 +6,7 @@ Predict employee attrition (Yes/No) using classic classification models in **R**
 - Random Forest  
 - Support Vector Machine (SVM)
 
-This repo is based on the project report: **“Employee Attrition Prediction — CSP571 final report.”** fileciteturn1file0
+This repo is based on the project report: **“Employee Attrition Prediction — CSP571 final report.”** 
 
 ---
 
